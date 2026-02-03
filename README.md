@@ -17,7 +17,7 @@ I mainly work with **React** and have hands-on experience integrating frontend a
 
 ## 🧠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,nodejs,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,cpp,java,kubernetes,python,flutter,nodejs,firebase,git,github" />
 </p>
 
 ---
