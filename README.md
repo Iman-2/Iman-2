@@ -1,4 +1,4 @@
-# 🏄‍♂️ Iman PaUL 
+# 🏄‍♂️ Iman PauL 
 **Software Engineer | Frontend (React)**  
 📍 Kolkata, India  
 
