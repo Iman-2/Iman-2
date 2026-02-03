@@ -33,12 +33,13 @@ I mainly work with **React** and have hands-on experience integrating frontend a
 
 ## 🧩 Featured Projects (Personal Projects)
 
-### 🔹 loadgoLanding  
-A landing page focused on **conversion, performance, and clean UX**.  
-Built to practice real-world frontend structure without over-engineering.
+### 🔹 Stock analysis and forcasting using ml  
+Implemented and evaluated models such as **Linear Regression, Random Forest, and LSTM using MSE and RMSE metrics**.
+Visualized stock trends and prediction results using Matplotlib to support data-driven insights.
 
-### 🔹 aigencyCRM  
-A **concept CRM** designed for AI agencies and solopreneurs, focused on automation, client tracking, and operational clarity.
+### 🔹 Library Manager  
+A Flutter app with Firebase Firestore CRUD operations.
+  Integrated Firebase Auth and real-time updates.
 
 ---
 
